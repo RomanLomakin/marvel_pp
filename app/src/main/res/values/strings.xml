@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarvelPetProject</string>
+    <string name="bio">bio</string>
+    <string name="presentation_text">choose your favorite hero</string>
+    <string name="realname">realname</string>
+    <string name="name">name</string>
+    <string name="team">team</string>
+    <string name="createdby">createdby</string>
+    <string name="publisher">publisher</string>
+    <string name="firstapperance">firstapperance</string>
+</resources>
